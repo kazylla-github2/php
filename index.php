@@ -1,7 +1,9 @@
 <?php
+
 // output header
 header('Content-type: text/html');
+
 // output message
-echo "hello! new big world!\n";
+echo "<p>hello! new big world!</p>\n";
 
 return;
