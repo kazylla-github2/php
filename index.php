@@ -2,4 +2,4 @@
 // output header
 header('Content-type: text/html');
 // output message
-echo "hello! new big world!\n";
+echo "hello! brand new big world!\n";
